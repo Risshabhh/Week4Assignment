@@ -1,7 +1,7 @@
 #  NLP Assignment – Text Analysis and Topic Discovery  
 
 ##  Overview  
-This project is part of my **Week 3 AI/NLP Assignment**.  
+This project is part of my **Week 4 Assignment**.  
 The goal is to practice different **text analysis techniques** using Python, scikit-learn, gensim, and nltk.  
 
 We worked on a small **synthetic dataset (10–15 sentences)** about **nature, environment, technology, and data science**, and then applied the following techniques:  
